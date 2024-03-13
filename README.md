@@ -4,7 +4,7 @@ The historical data is stored in register.csv, which includes information about 
 station.csv provides descriptions of the stations. 
 
 
-File flights_graph utilizes the GraphFrames Spark library, utilizing its DataFrame API, to analyze a dataset containing information about flight connections and airports worldwide. Here's an overview of the dataset:
+File flights_graph uses the GraphFrames Spark library, utilizing its DataFrame API, to analyze a dataset containing information about flight connections and airports worldwide. Here's an overview of the dataset:
 /data/students/bigdata_internet/lab5/airports.csv: This file contains detailed information about airports globally, with each line representing one airport entry.
 /data/students/bigdata_internet/lab5/airlines.csv: This file offers additional insights into each airline's operations.
 /data/students/bigdata_internet/lab5/routes.csv: This file lists the flight routes operated by each airline between two airports.
